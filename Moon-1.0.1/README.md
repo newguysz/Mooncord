@@ -26,14 +26,6 @@
 - Invite checker
 
 
-- Proxys (enable in versions/config.py)
-
-
-
-- Webhook notif (enable in versions/config.py)
-
-
--  Discord token checker & gen. (enable in versions/config.py)
 
 
 # Usage

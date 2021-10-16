@@ -35,7 +35,7 @@
 
 RUN: ```git clone https://github.com/7ua/Moon && cd Moon && cd versions && python3 new.py```
 
-**MUST CHECK CONFIG.PY**
+CHECK CONFIG.PY
 
 
 

@@ -34,8 +34,15 @@
 **Also note python3 is required to use this.**
 
 INSTALL: ```git clone https://github.com/7ua/Moon```
+
+
+
+
+
+
+
 RUN:```bash moon.sh```
-RUN:``` cd Moon && cd Moon-1.0.1 && cd versions && python3 new.py```
+
 
 CHECK CONFIG.PY
 

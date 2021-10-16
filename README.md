@@ -29,7 +29,9 @@
 
 
 # Usage
+Download zip https://github.com/7ua/Moon/releases/tag/new
 
+OR
 
 **Also note python3 is required to use this.**
 

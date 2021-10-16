@@ -33,7 +33,7 @@
 
 **Also note python3 is required to use this.**
 
-RUN: ```git clone https://github.com/7ua/Moon && cd Moon && cd versions && python3 new.py```
+RUN: ```git clone https://github.com/7ua/Moon && cd Moon && cd Moon-1.0.1 && cd versions && python3 new.py```
 
 CHECK CONFIG.PY
 

@@ -1,6 +1,6 @@
 # <p align=center>Moon 🌙</p>
 
-<h6 align=center> Fast and small application to Generate mutliple discord for free</h6>
+<h6 align=center> Fast and small application to Generate discord related things for free</h6>
 
 
 

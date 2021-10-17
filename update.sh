@@ -8,4 +8,4 @@ echo "Installing new version"
 sleep 3
 git clone https://github.com/7ua/Moon && cd Moon && mv moon.sh ~ && mv update.sh ~ && cd 
 clear
-echo "Moon was updated & installed."
+echo "Moon was updated & re-installed."

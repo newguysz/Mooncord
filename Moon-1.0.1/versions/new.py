@@ -1,4 +1,4 @@
-# Github.com/7ua                                                      
+#  Github.com/7ua                                                      
 import random 
 import time
 import requests

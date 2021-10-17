@@ -33,7 +33,7 @@
 
 **Also note python3 is required to use this.**
 
-INSTALL: ```git clone https://github.com/7ua/Moon && cd Moon && mv moon.sh ~ && cd```
+INSTALL: ```git clone https://github.com/7ua/Moon && cd Moon && mv moon.sh ~ && mv update.sh ~ && cd ```
 
 
 

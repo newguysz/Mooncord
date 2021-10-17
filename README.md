@@ -37,7 +37,7 @@ INSTALL: ```git clone https://github.com/7ua/Moon```
 
 
 
-THEN RUN TO COMPLETE INSTALLATION: ``` cd Moon && mv moon.sh ~```
+THEN RUN TO COMPLETE INSTALLATION: ``` cd Moon && mv moon.sh ~ && cd ```
 
 
 

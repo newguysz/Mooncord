@@ -1,4 +1,4 @@
-# <p align=center>Moon 🌙</p>
+# <p align=center>Mooncord 🌙</p>
   <h4 align=center> Discord server: https://discord.gg/frnpk2rg</h4>
 
 <h6 align=center> Fast and small application to Generate discord related things for free</h6>
@@ -34,7 +34,7 @@
 
 **Also note python3 is required to use this.**
 
-INSTALL: ```git clone https://github.com/7ua/Moon && cd Moon && mv moon.sh ~ && mv update.sh ~ && cd ```
+INSTALL: ```git clone https://github.com/7ua/Mooncord && cd Moon && mv moon.sh ~ && mv update.sh ~ && cd ```
 
 
 
@@ -61,7 +61,7 @@ First go to replit.com
 Then make a new python project
 
 
-go to the terminal in the project and type ```git clone https://github.com/7ua/Moon && cd Moon && cd versions && python3 new.py```
+go to the terminal in the project and type ```git clone https://github.com/7ua/Mooncord && cd Moon && cd versions && python3 new.py```
 
 Now press run! Should work!
 

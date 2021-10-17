@@ -67,8 +67,7 @@ Now press run! Should work!
 
 # Upcoming Features
 
-- None for now.
-
+Alot is coming
 
 # Contributors
 
@@ -77,7 +76,7 @@ Now press run! Should work!
 Github.com/7ua
 
 
-#### Normal Contributors, Thank you to anyone to Contributes.
+#### Normal Contributors, Thank you to anyone to Contributes. (These were people who helped with the old repo)
 
 
 

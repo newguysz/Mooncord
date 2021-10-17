@@ -33,18 +33,15 @@
 
 **Also note python3 is required to use this.**
 
-INSTALL: ```git clone https://github.com/7ua/Moon```
-
-
-
-THEN RUN TO COMPLETE INSTALLATION: ``` cd Moon && mv moon.sh ~ && cd ```
+INSTALL: ```git clone https://github.com/7ua/Moon && cd Moon && mv moon.sh ~ && cd```
 
 
 
 
 
 
-RUN:```bash moon.sh```
+
+RUN:  ```bash moon.sh```
 
 
 CHECK CONFIG.PY

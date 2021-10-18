@@ -42,7 +42,7 @@ INSTALL: ```git clone https://github.com/7ua/Mooncord && cd Moon && mv moon.sh ~
 
 
 
-RUN:  ```bash moon.sh```
+RUN:  ```bash mooncord.sh```
 
 
 CHECK CONFIG.PY

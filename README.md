@@ -61,7 +61,7 @@ First go to replit.com
 Then make a new python project
 
 
-go to the terminal in the project and type ```git clone https://github.com/7ua/Mooncord && cd Moon && cd versions && python3 new.py```
+go to the terminal in the project and type ```git clone https://github.com/7ua/Mooncord && cd Mooncord && cd versions && python3 new.py```
 
 Now press run! Should work!
 

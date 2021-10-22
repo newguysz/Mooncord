@@ -3,6 +3,7 @@ import random
 import time
 import requests
 import os
+import sys 
 from colorama import Fore, Back, Style
 from config import *
 os.system("clear")
@@ -34,6 +35,7 @@ if numbersOnly == True:
   a=['1','2','3','4','5','6','7','8','9','0']
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
+sys.stdout.write("\x1b]2;test\x07")
 print(Fore.RED + logo)
 print(" Enter 1. to use Nitro gen & checker. \n Enter 2. to use code gen (no checker) \n Enter 3. to use invite gen (no checker) \n Enter 4. to use invite gen & checker.")
 print(" Enter ? help")

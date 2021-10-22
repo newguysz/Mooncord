@@ -50,7 +50,7 @@ if choice == "1":
    f = random.choice(a)                                                           
    g = random.choice(a)                                                           
    h = random.choice(a)                                                           
-   i = random.choice(a)Fore.RED + 
+   i = random.choice(a)
    j = random.choice(a) 
    k = random.choice(a) 
    l = random.choice(a) 

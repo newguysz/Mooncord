@@ -37,9 +37,9 @@ if numbersOnly == True:
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
 print(Fore.RED + logo)
-options = [f'{Fore.RED}Nitro gen & checker. ', 'Nitro gen (no checker) ', 'invite gen (no checker) ', 'invite gen & checker.', 'exit']
+options = ['\033[31m'+'Nitro gen & checker. ', 'Nitro gen (no checker) ', 'invite gen (no checker) ', 'invite gen & checker.', 'exit']
 choice = enquiries.choose('Choose one of these options: ', options)
-if choice == "Nitro gen & checker. ":
+if choice == "\033[31mNitro gen & checker. ":
  while True:                                                                     
    w = random.choice(a)                                                           
    d = random.choice(a)                                                           

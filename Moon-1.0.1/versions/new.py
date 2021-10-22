@@ -40,7 +40,8 @@ print(Fore.RED + logo)
 options = [ Fore.RED + 'Enter 1. to use Nitro gen & checker. ', Fore.RED + 'Enter 2. to use code gen (no checker) ', Fore.RED + 'Enter 3. to use invite gen (no checker) ', Fore.RED + 'Enter 4. to use invite gen & checker.']
 choice = enquiries.choose('Choose one of these options: ', options)
 #print(" Enter 1. to use Nitro gen & checker. \n Enter 2. to use code gen (no checker) \n Enter 3. to use invite gen (no checker) \n Enter 4. to use invite gen & checker.")
-if choice == "Enter 1. to use Nitro gen & checker. ":                                                                                   
+if choice == "Enter 1. to use Nitro gen & checker. ":
+ print('hi')
  while True:                                                                     
    w = random.choice(a)                                                           
    d = random.choice(a)                                                           

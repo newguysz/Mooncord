@@ -37,11 +37,11 @@ if numbersOnly == True:
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
 print(Fore.RED + logo)
-options = ['Enter 1. to use Nitro gen & checker. ', 'Enter 2. to use code gen (no checker) ', 'Enter 3. to use invite gen (no checker) ', 'Enter 4. to use invite gen & checker.']
+options = ['Nitro gen & checker. ', 'Nitro gen (no checker) ', 'invite gen (no checker) ', 'invite gen & checker.', 'exit']
 choice = enquiries.choose('Choose one of these options: ', options)
 #print(" Enter 1. to use Nitro gen & checker. \n Enter 2. to use code gen (no checker) \n Enter 3. to use invite gen (no checker) \n Enter 4. to use invite gen & checker.")
 print(choice)
-if choice == "Enter 1. to use Nitro gen & checker. ":
+if choice == "Nitro gen & checker. ":
  print('hi')
  while True:                                                                     
    w = random.choice(a)                                                           
@@ -82,13 +82,11 @@ if choice == "Enter 1. to use Nitro gen & checker. ":
        file.close()
        print("Code saved in 'okcodes.txt'")
        
-if choice == "2":
+if choice == "Nitro gen (no checker) ":
  os.system('python3 gen1.py')
-if choice == "3":
+if choice == "invite gen (no checker) ":
  os.system('python3 invitegen.py')
-if choice == "4":
+if choice == "invite gen & checker.":
  os.system('python3 invitechecker.py')
-if choice == "x":
+if choice == "exit":
  sys.exit()
-if choice == "?":
-  print(" Enter 1. to use Nitro gen & checker. \n Enter 2. to use code gen (no checker) \n Enter 3. to use invite gen (no checker) \n Enter 4. to use invite gen & checker.")

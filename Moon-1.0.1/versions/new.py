@@ -3,6 +3,7 @@ import random
 import time
 import requests
 import os
+import sys
 from colorama import Fore, Back, Style
 from config import *
 os.system("clear")
@@ -84,5 +85,7 @@ if choice == "3":
  os.system('python3 invitegen.py')
 if choice == "4":
  os.system('python3 invitechecker.py')
+if choice == "x":
+ sys.exit()
 if choice == "?":
   print(" Enter 1. to use Nitro gen & checker. \n Enter 2. to use code gen (no checker) \n Enter 3. to use invite gen (no checker) \n Enter 4. to use invite gen & checker.")

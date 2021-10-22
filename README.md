@@ -68,8 +68,7 @@ Now press run! Should work!
 
 # Upcoming Features
 
-Alot is coming
-also windows port coming soon
+windows port coming soon
 
 # Contributors
 

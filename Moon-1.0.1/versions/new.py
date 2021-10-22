@@ -4,6 +4,7 @@ import time
 import requests
 import os
 import sys
+import enquiries
 from colorama import Fore, Back, Style
 from config import *
 os.system("clear")

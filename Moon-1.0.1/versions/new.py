@@ -37,8 +37,8 @@ if numbersOnly == True:
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
 print(Fore.RED + logo)
-options = [' Enter 1. to use Nitro gen & checker. ','Enter 2. to use code gen (no checker) ', 'Enter 3. to use invite gen (no checker) ', 'Enter 4. to use invite gen & checker.']
-choice = enquiries.choose('Choose one of these options: ', Fore.RED + options)
+options = [ Fore.RED + ' Enter 1. to use Nitro gen & checker. ', Fore.RED + 'Enter 2. to use code gen (no checker) ', Fore.RED + 'Enter 3. to use invite gen (no checker) ', Fore.RED + 'Enter 4. to use invite gen & checker.']
+choice = enquiries.choose('Choose one of these options: ', options)
 #print(" Enter 1. to use Nitro gen & checker. \n Enter 2. to use code gen (no checker) \n Enter 3. to use invite gen (no checker) \n Enter 4. to use invite gen & checker.")
 print(" Enter ? help")
 choice = input(Fore.YELLOW+"[-]: ")
@@ -50,7 +50,7 @@ if choice == "1":
    f = random.choice(a)                                                           
    g = random.choice(a)                                                           
    h = random.choice(a)                                                           
-   i = random.choice(a)
+   i = random.choice(a)Fore.RED + 
    j = random.choice(a) 
    k = random.choice(a) 
    l = random.choice(a) 

@@ -1,7 +1,7 @@
 # Github.com/7ua
 
 
-# Dont use  it sucks this was my v2 before the js one got removed just use new.py the current one 
+# Dont use  it sucks this was my v2 before the js one got removed just use new.py the current one # 
 import random
 import requests
 import time

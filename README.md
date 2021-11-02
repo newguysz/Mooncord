@@ -1,4 +1,5 @@
 # <p align=center>Mooncord 🌙</p>
+<p align=center>[!(https://img.shields.io/github/repo-size/7ua/Mooncord)]
   <h4 align=center> Discord server: https://discord.gg/frnpk2rg</h4>
 
 <h6 align=center> Fast and small application to Generate discord related things for free</h6>

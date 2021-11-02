@@ -9,7 +9,7 @@
 
 
 
-(Main file in Mooncord/Moon-1.0.1/versions/new.py/)
+<p align=center>(Main file in Mooncord/Moon-1.0.1/versions/new.py/)<p>
 
 
 # Features

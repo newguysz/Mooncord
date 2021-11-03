@@ -15,6 +15,8 @@
 # Features
 - Nitro code generator
 
+  
+- Token generator
 
 - Nitro code checker
 

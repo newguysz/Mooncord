@@ -46,7 +46,9 @@ INSTALL:
 
 
 
-RUN:  ```bash mooncord.sh```
+RUN:  
+  
+ ```bash mooncord.sh```
 
 
 CHECK CONFIG.PY

@@ -36,7 +36,9 @@
 
 **Also note python3 is required to use this.**
 
-INSTALL: ```git clone https://github.com/7ua/Mooncord && cd Mooncord && mv mooncord.sh ~ && mv update.sh ~ && cd ```
+INSTALL: 
+  
+ ```git clone https://github.com/7ua/Mooncord && cd Mooncord && mv mooncord.sh ~ && mv update.sh ~ && cd ```
 
 
 

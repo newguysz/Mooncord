@@ -31,7 +31,7 @@
 
 
 
-# Usage
+# Quick start
 
 
 **Also note python3 is required to use this.**
@@ -53,7 +53,7 @@ CHECK CONFIG.PY
 
 
 
-# run on ios & android
+# run on Windows & Mobile
 
 
 
@@ -63,9 +63,9 @@ First go to replit.com
 Then make a new python project
 
 
-go to the terminal in the project and type ```git clone https://github.com/7ua/Mooncord && cd Mooncord && cd versions && python3 new.py```
+go to the shell in the project and paste (ctrl+shift+v) ```git clone https://github.com/7ua/Mooncord && cd Mooncord && cd versions && python3 new.py```
 
-Now press run! Should work!
+then ```bash mooncord.sh```
 
 
 # Upcoming Features

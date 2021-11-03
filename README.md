@@ -72,6 +72,7 @@ Now press run! Should work!
 
 windows port coming soon
 
+
 # Contributors
 
 #### Owner 
@@ -79,7 +80,7 @@ windows port coming soon
 Github.com/7ua
 
 
-#### Normal Contributors, Thank you to anyone to Contributes. (These were people who helped with the old repo)
+#### People who helped
 
 
 

@@ -106,6 +106,6 @@ if choice == "\033[31mNitro gen (no checker) ":
 if choice == "\033[31minvite gen (no checker) ":
  os.system('python3 invitegen.py')
 if choice == "\033[31minvite gen & checker.":
- os.system('python3 invitechecker.py')
+ os.system('python3 tokeng.py')
 if choice == "\033[31mexit":
  sys.exit()

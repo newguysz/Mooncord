@@ -12,8 +12,13 @@
 <p align=center>(Main file in Mooncord/Moon-1.0.1/versions/new.py/)<p>
   
   
+  # Read
+  - This is a fairly new porject and more and more will be added soon.
   
-  Also Just wanted to say the chance of this getting you a valid code is (1/62)^16
+  
+  
+  - The chance of this getting you a valid code is (1/62)^16
+  
 
 
 # Features

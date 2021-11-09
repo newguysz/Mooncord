@@ -10,6 +10,10 @@
 
 
 <p align=center>(Main file in Mooncord/Moon-1.0.1/versions/new.py/)<p>
+  
+  
+  
+  Also Just wanted to say the chance of this getting you a valid code is (1/62)^16
 
 
 # Features

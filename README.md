@@ -54,7 +54,7 @@ unzip, Extract all files.
   
   
   
-run mcl.sh (bash mooncord.sh)
+run mcl.sh (bash mcl.sh)
   
   
 now run mooncord.sh (bash mooncord.sh)

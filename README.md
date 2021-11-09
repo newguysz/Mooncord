@@ -35,11 +35,23 @@
 
 
 **Also note python3 and os module are required to use this.**
+  
+  
+  
+Download zip https://github.com/7ua/Mooncord/releases/tag/new
+
+  
+unzip, Extract all files.
+  
+  
+  
+run mcl.sh (bash mooncord.sh)
+  
+  
+now run mooncord.sh (bash mooncord.sh)
 
 
 
-
-CHECK CONFIG.PY
 
 
 

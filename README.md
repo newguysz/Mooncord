@@ -57,7 +57,7 @@ now run mooncord.sh (bash mooncord.sh)
 
 
 
-# run on Windows & Mobile
+# run on Windows & Mobile & Mac
 
 
 
@@ -72,9 +72,11 @@ go to the shell in the project and paste (ctrl+shift+v) ```git clone https://git
 then ```bash mooncord.sh```
 
 
-# Upcoming Features
+# News.
+  
+  Windows port not coming any time soon.
 
-windows port coming soon
+
 
 
 # Contributors

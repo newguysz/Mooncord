@@ -31,7 +31,7 @@
 
 
 
-# Quick start
+# Linux
 
 
 **Also note python3 is required to use this.**

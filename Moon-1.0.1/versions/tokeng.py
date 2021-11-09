@@ -1,6 +1,6 @@
 import string 
 import random
-import timwe
+import time
 
 while True:
   time.sleep('0.2')

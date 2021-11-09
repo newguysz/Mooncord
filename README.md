@@ -17,7 +17,7 @@
   
   
   
-  - The chance of this getting you a valid code is (1/62)^16
+  - The chance of this getting you a valid code is (1/62)^16  
   
 
 

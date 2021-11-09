@@ -13,7 +13,7 @@
   
   
   # Read
-  - This is a fairly new porject and more and more will be added soon.
+  - This is a fairly new project and more and more will be added soon.
   
   
   
@@ -56,8 +56,10 @@ unzip, Extract all files.
   
 run mcl.sh (bash mcl.sh)
   
+make sure to run only for the first time : sudo chmod +x mooncord
+
   
-now run mooncord.sh (bash mooncord.sh)
+now run mooncord.sh (./mooncord)
 
 
 

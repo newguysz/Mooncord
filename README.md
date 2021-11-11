@@ -27,15 +27,15 @@
   
 - [X] Token generator
 
-- Nitro code checker
+- [X] Nitro code checker
 
-- Nitro code sniper (enable in versions/config.py)
-
-
-- Invite gen
+- [X]Nitro code sniper (enable in versions/config.py)
 
 
-- Invite checker
+- [X]Invite gen
+
+
+- [ ] windows port
 
 
 

@@ -1,7 +1,7 @@
 # <p align=center>Mooncord 🌙</p>
   <h4 align=center> Discord server: https://discord.gg/frnpk2rg</h4>
 
-<h6 align=center> Fast and small Discord-Toolset. Works on Linux, Mac, Windows, & mobile.</h6>
+<h6 align=center> Fast and small Discord-Toolset.</h6>
 
 
 

@@ -29,13 +29,16 @@
 
 - [X] Nitro code checker
 
-- [X]Nitro code sniper (enable in versions/config.py)
+- [X] Nitro code sniper (enable in versions/config.py)
 
 
-- [X]Invite gen
+- [X] Invite gen
 
 
-- [ ] windows port
+- [ ] Windows port 
+  
+  
+
 
 
 

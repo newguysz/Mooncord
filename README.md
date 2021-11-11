@@ -22,10 +22,10 @@
 
 
 # Features
-- Nitro code generator
+- [x] Nitro code generator
 
   
-- Token generator
+- [X] Token generator
 
 - Nitro code checker
 
@@ -90,23 +90,6 @@ then ```bash mooncord.sh```
 
 
 
-# Contributors
 
-#### Owner 
-
-Github.com/7ua
-
-
-#### People who helped
-
-
-
-Github.com/committt
-
-
-Github.com/n1ssan
-
-
-Github.com/PASS90
 
 

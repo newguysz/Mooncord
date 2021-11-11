@@ -68,7 +68,7 @@ now run mooncord.sh (./mooncord)
 
 
 
-# run on Windows & Mobile & Mac
+# Not on linux
 
 
 

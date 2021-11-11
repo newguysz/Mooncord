@@ -12,7 +12,7 @@
 <p align=center>(Main file in Mooncord/Moon-1.0.1/versions/new.py/)<p>
   
   
-  # <h1 align=center>Read before using<h1>
+  # Read before using
   - This is a fairly new project and more and more will be added soon.
   
   
@@ -86,9 +86,7 @@ go to the shell in the project and paste (ctrl+shift+v) ```git clone https://git
 then ```bash mooncord.sh```
 
 
-# News.
-  
-  Windows port not coming any time soon.
+
 
 
 
